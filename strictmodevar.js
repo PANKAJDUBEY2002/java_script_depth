@@ -1,6 +1,6 @@
 
 
-'use strict';
+"use strict";
 var greetme=function greet() {
     myvar=9;
 }
